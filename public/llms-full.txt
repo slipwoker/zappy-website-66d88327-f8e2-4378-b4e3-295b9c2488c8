@@ -2,13 +2,13 @@
 
 A yoga studio/complex looking to market its services through a landing page. The brand centers around wellness, mindfulness, and physical practice, aiming to attract potential students or members to the studio.
 
-Source: https://-66d88327.zappy5.app
+Source: https://example.com
 
 ---
 
 ## גלו את הסטודיו ליוגה הכי חם בעיר — יוגה קלאס
 
-URL: https://-66d88327.zappy5.app
+URL: https://example.com
 Description: מחפשים hot yoga studios near me? ביוגה קלאס תמצאו מרחב מושלם לאיזון גוף ונפש עם שיעורים מעצימים. הצטרפו עוד היום לחוויית וולנס ייחודית שמחכה לכם!
 
 גלו את הסטודיו ליוגה הכי חם בעיר — יוגה קלאס
@@ -477,7 +477,7 @@ Description: מחפשים hot yoga studios near me? ביוגה קלאס תמצא
 
 ## מדיניות פרטיות
 
-URL: https://-66d88327.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -749,7 +749,7 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 ## הצהרת נגישות
 
-URL: https://-66d88327.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -1030,7 +1030,7 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 ## תנאי שימוש
 
-URL: https://-66d88327.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
