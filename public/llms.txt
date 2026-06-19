@@ -1,0 +1,54 @@
+# יוגה קלאס — Generative Engine Optimization Map
+
+> A yoga studio/complex looking to market its services through a landing page. The brand centers around wellness, mindfulness, and physical practice, aiming to attract potential students or members to the studio.
+
+---
+
+## Pages
+
+### בית
+https://-66d88327.zappy5.app
+מחפשים hot yoga studios near me? ביוגה קלאס תמצאו מרחב מושלם לאיזון גוף ונפש עם שיעורים מעצימים. הצטרפו עוד היום לחוויית וולנס ייחודית שמחכה לכם!
+
+## Legal & Policy
+
+### Privacy Policy
+https://-66d88327.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-66d88327.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-66d88327.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About יוגה קלאס
+A yoga studio/complex looking to market its services through a landing page. The brand centers around wellness, mindfulness, and physical practice, aiming to attract potential students or members to the studio.
+
+## Target Audience
+- חובבי יוגה עירוניים
+- אנשי מקצוע לניהול לחץ
+- הורים המקדמים אורח חיים בריא
+
+## Industry
+Yoga Studio
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-66d88327.zappy5.app/sitemap.xml
+- Robots: https://-66d88327.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-66d88327.zappy5.app/llms-full.txt
